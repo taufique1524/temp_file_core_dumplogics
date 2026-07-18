@@ -1,0 +1,1 @@
+# temp_file_core_dumplogics
